@@ -1,0 +1,8 @@
+
+.playOptions {
+    width: 100%;
+}
+
+.playOptions > img {
+    height: 10vh;
+}
